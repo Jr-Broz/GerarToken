@@ -1,0 +1,14 @@
+C:\Users\kugao\Desktop\GeradorDeToken\bin\Debug\net7.0\GeradorDeToken.exe
+C:\Users\kugao\Desktop\GeradorDeToken\bin\Debug\net7.0\GeradorDeToken.deps.json
+C:\Users\kugao\Desktop\GeradorDeToken\bin\Debug\net7.0\GeradorDeToken.runtimeconfig.json
+C:\Users\kugao\Desktop\GeradorDeToken\bin\Debug\net7.0\GeradorDeToken.dll
+C:\Users\kugao\Desktop\GeradorDeToken\bin\Debug\net7.0\GeradorDeToken.pdb
+C:\Users\kugao\Desktop\GeradorDeToken\obj\Debug\net7.0\GeradorDeToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kugao\Desktop\GeradorDeToken\obj\Debug\net7.0\GeradorDeToken.AssemblyInfoInputs.cache
+C:\Users\kugao\Desktop\GeradorDeToken\obj\Debug\net7.0\GeradorDeToken.AssemblyInfo.cs
+C:\Users\kugao\Desktop\GeradorDeToken\obj\Debug\net7.0\GeradorDeToken.csproj.CoreCompileInputs.cache
+C:\Users\kugao\Desktop\GeradorDeToken\obj\Debug\net7.0\GeradorDeToken.dll
+C:\Users\kugao\Desktop\GeradorDeToken\obj\Debug\net7.0\refint\GeradorDeToken.dll
+C:\Users\kugao\Desktop\GeradorDeToken\obj\Debug\net7.0\GeradorDeToken.pdb
+C:\Users\kugao\Desktop\GeradorDeToken\obj\Debug\net7.0\GeradorDeToken.genruntimeconfig.cache
+C:\Users\kugao\Desktop\GeradorDeToken\obj\Debug\net7.0\ref\GeradorDeToken.dll
